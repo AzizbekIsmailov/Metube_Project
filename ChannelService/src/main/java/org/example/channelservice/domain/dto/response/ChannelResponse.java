@@ -1,9 +1,5 @@
-package org.example.channelservice.entity;
-
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+package org.example.channelservice.domain.dto.response;
 import lombok.*;
-import metube.com.dto.BaseEntity;
 
 import java.util.UUID;
 
@@ -11,9 +7,8 @@ import java.util.UUID;
 @NoArgsConstructor
 @Getter
 @Setter
-@Entity
-@Table(name = "channels")
-public class ChannelEntity extends BaseEntity {
+@Builder
+public class ChannelResponse {
     private String name;
     private String description;
     private String imagePath;
@@ -21,3 +16,8 @@ public class ChannelEntity extends BaseEntity {
     private UUID ownerId;
     private Integer subscriberCount;
 }
+
+
+
+
+
