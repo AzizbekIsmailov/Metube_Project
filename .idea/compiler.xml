@@ -10,10 +10,5 @@
         <module name="VideoService.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="EurekaServer" target="21" />
-      <module name="EurekaServer.main" target="21" />
-      <module name="EurekaServer.test" target="21" />
-    </bytecodeTargetLevel>
   </component>
 </project>
