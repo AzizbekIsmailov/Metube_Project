@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/VideoService" />
+  </component>
+  <component name="ProjectRootManager">
     <file type="web" url="file://$PROJECT_DIR$/ApiGateWay" />
     <file type="web" url="file://$PROJECT_DIR$/AuthService" />
     <file type="web" url="file://$PROJECT_DIR$/ChannelService" />
