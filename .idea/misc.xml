@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/VideoService" />
-  </component>
-  <component name="ProjectRootManager">
-    <file type="web" url="file://$PROJECT_DIR$/ApiGateWay" />
-    <file type="web" url="file://$PROJECT_DIR$/AuthService" />
     <file type="web" url="file://$PROJECT_DIR$/ChannelService" />
-    <file type="web" url="file://$PROJECT_DIR$/EurekaServer" />
-    <file type="web" url="file://$PROJECT_DIR$/InteractionService" />
-    <file type="web" url="file://$PROJECT_DIR$/NotificationService" />
     <file type="web" url="file://$PROJECT_DIR$/VideoService" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">

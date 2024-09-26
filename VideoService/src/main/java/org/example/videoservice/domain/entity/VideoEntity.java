@@ -23,6 +23,7 @@ public class VideoEntity extends BaseEntity {
       private Integer views;
       private UUID commentId;
       private UUID likeId;
+      private UUID channelId;
 
 }
 
